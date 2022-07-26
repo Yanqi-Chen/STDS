@@ -14,15 +14,16 @@ This repo contains the code reproducing the results of **STDS** (**S**tate **T**
 ├── CIFAR10
 │   ├── model.py
 │   ├── optim.py
-│   └── train.py
-├── ImageNet
-│   ├── optim.py
-│   ├── sew_resnet.py
 │   ├── train.py
-│   └── utils.py
-└── logs
-    ├── linear
-    └── sine
+│   └── logs
+└── ImageNet
+    ├── optim.py
+    ├── sew_resnet.py
+    ├── train.py
+    ├── utils.py
+    └── logs
+        ├── linear
+        └── sine
 ```
 
 ## Dependency 
